@@ -10418,7 +10418,7 @@ h4.sub-title {
   color: #fff; }
 
 .w3l-main-banner .banner-info p {
-  font-size: 24px;
+  font-size: 17px;
   font-weight: 400;
   color: #fff; }
 
@@ -10498,7 +10498,7 @@ h4.sub-title {
 
 @media (max-width: 440px) {
   .w3l-main-banner h3.banner-text {
-    font-size: 40px;
+    font-size: 30px;
     line-height: 50px; } }
 
 .w3l-about .progress {
