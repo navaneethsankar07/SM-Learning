@@ -8041,7 +8041,7 @@ button.bg-dark:focus {
 
 .mt-4,
 .my-4 {
-  margin-top: 1.5rem !important; }
+  margin-top: 0.5rem !important; }
 
 .mr-4,
 .mx-4 {
@@ -10418,7 +10418,7 @@ h4.sub-title {
   color: #fff; }
 
 .w3l-main-banner .banner-info p {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 200;
   color: #fff; }
 
