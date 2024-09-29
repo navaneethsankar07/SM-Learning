@@ -10413,7 +10413,7 @@ h4.sub-title {
 
 .w3l-main-banner h3.banner-text {
   font-weight: 400;
-  font-size: 50px;
+  font-size: 39px;
   line-height: 65px;
   color: #fff; }
 
@@ -10498,7 +10498,7 @@ h4.sub-title {
 
 @media (max-width: 440px) {
   .w3l-main-banner h3.banner-text {
-    font-size: 30px;
+    font-size: 18px;
     line-height: 50px; } }
 
 .w3l-about .progress {
@@ -12221,4 +12221,3 @@ body:after {
     font-size: 35px; }
   .w3l-service-breadcrum .breadcrum-bg {
     padding-top: 60px; } }
-
